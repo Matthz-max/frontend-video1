@@ -6,13 +6,13 @@ O usuário pode clicar em **Novo**, preencher título, preço e URL da imagem, e
 ---
 
 ## 🚀 Tecnologias usadas
+- ✅ **React 19** — Biblioteca para construir interfaces
+- ✅ **Vite** — Ferramenta de build rápida para projetos front-end modernos
+- ✅ **TypeScript** — Tipagem estática para JavaScript
+- ✅ **Axios** — Para fazer requisições HTTP (se usado futuramente)
+- ✅ **React Query** — Gerenciamento de estado e cache para dados assíncronos
+- ✅ **ESLint** — Linter para manter o código limpo e padronizado
 
--✅ **React 19** — Biblioteca para construir interfaces
--✅ **Vite** — Ferramenta de build rápida para projetos front-end modernos
--✅ **TypeScript** — Tipagem estática para JavaScript
--✅ **Axios** — Para fazer requisições HTTP (se usado futuramente)
--✅ **React Query** — Gerenciamento de estado e cache para dados assíncronos
--✅ **ESLint** — Linter para manter o código limpo e padronizado
 
 ---
 
@@ -25,25 +25,27 @@ O usuário pode clicar em **Novo**, preencher título, preço e URL da imagem, e
 - Ter o backend do projeto
 ---
  
-## 📦 Estrutura de Pastas 
- /src
- ├── components
- │    ├── Card
- │    │     ├── Card.tsx
- │    │     └── Card.css
- │    ├── CreateModal
- │    │     ├── CreateModal.tsx
- │    │     └── Modal.css
- ├── hooks
- │    ├── useFoodData.tsx
- │    └── useFoodDataMutate.ts
- ├── interface
- │    └── FoodData.ts
- ├── App.css
- ├── App.tsx
- ├── main.tsx
- └── index.css
----
+## 📦 Estrutura de Pastas /src
+├── components
+│ ├── Card
+│ │ ├── Card.tsx
+│ │ └── Card.css
+│ ├── CreateModal
+│ │ ├── CreateModal.tsx
+│ │ └── Modal.css
+├── hooks
+│ ├── useFoodData.tsx
+│ └── useFoodDataMutate.ts
+├── interface
+│ └── FoodData.ts
+├── App.css
+├── App.tsx
+├── main.tsx
+└── index.css
+
+Copiar
+Editar
+
  
 ## Usado como referencia Video 
 1. Criando Aplicação Fullstack do Zero - Parte 2: Desenvolvimento do Frontend com React e Typescript | dev 
