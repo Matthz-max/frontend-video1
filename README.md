@@ -47,9 +47,9 @@ O usuário pode clicar em **Novo**, preencher título, preço e URL da imagem, e
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>Método GET</strong></td>
+      <td align="center"><strong>Pagina inicial</strong></td>
       <td style="width: 20px;"></td> <!-- Espaço entre as colunas -->
-      <td align="center"><strong>Método POST</strong></td>
+      <td align="center"><strong>Pagina Modal</strong></td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/4a623077-a95f-4afe-bcaf-04cdb288810e" alt="GET" width="400"/></td>
