@@ -25,6 +25,7 @@ O usuário pode clicar em **Novo**, preencher título, preço e URL da imagem, e
 - Ter o backend do projeto
 ---
  
+```plaintext
 ## 📦 Estrutura de Pastas /src
 ├── components
 │ ├── Card
@@ -42,12 +43,13 @@ O usuário pode clicar em **Novo**, preencher título, preço e URL da imagem, e
 ├── App.tsx
 ├── main.tsx
 └── index.css
+```
 
-Copiar
-Editar
+🧪 Imagens do Site
+<div align="center"> <table> <tr> <td align="center"><strong>Container</strong></td> <td style="width: 20px;"></td> <!-- Espaço entre as colunas --> <td align="center"><strong>Modal</strong></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/249cc95c-8302-471f-b5b2-3ee4bdd0fcb5" alt="GET" width="400"/></td> <td></td> <td><img src="https://github.com/user-attachments/assets/316d3c3c-065c-4be4-849c-076b8fb7a1e7" alt="POST" width="400"/></td> </tr> </table> </div>
 
  
-## Usado como referencia Video 
+## 📚Usado como referencia Video 
 1. Criando Aplicação Fullstack do Zero - Parte 2: Desenvolvimento do Frontend com React e Typescript | dev 
 https://youtu.be/WHruc3_2z68?si=hSF7SZtMK1AozCnW
 
