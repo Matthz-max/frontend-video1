@@ -44,7 +44,8 @@ O usuário pode clicar em **Novo**, preencher título, preço e URL da imagem, e
 ```
 
 🧪 Imagens do Site
-<div align="center"> <table> <tr> <td align="center"><strong>Container</strong></td> <td style="width: 20px;"></td> <!-- Espaço entre as colunas --> <td align="center"><strong>Modal</strong></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/249cc95c-8302-471f-b5b2-3ee4bdd0fcb5" alt="GET" width="400"/></td> <td></td> <td><img src="https://github.com/user-attachments/assets/316d3c3c-065c-4be4-849c-076b8fb7a1e7" alt="POST" width="400"/></td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td align="center"><strong>Container</strong></td> <td style="width: 20px;"></td> <!-- Espaço entre as colunas --> <td align="center"><strong>Modal</strong></td> </tr> <tr> <td><img src="<img width="922" alt="image" src="https://github.com/user-attachments/assets/cf59fcd5-594f-4b77-ac30-e314a62cd89e" />
+ " alt="GET" width="400"/></td> <td></td> <td><img src="https://github.com/user-attachments/assets/316d3c3c-065c-4be4-849c-076b8fb7a1e7" alt="POST" width="400"/></td> </tr> </table> </div>
 
  
 ## 📚Usado como referencia Video 
