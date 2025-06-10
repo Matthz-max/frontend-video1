@@ -43,7 +43,7 @@ O usuário pode clicar em **Novo**, preencher título, preço e URL da imagem, e
 └── index.css
 ```
 
-## 🧪 Testes com Postman
+## 🖥️Imagens do Site
 <div align="center">
   <table>
     <tr>
