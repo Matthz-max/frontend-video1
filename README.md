@@ -63,6 +63,7 @@ O usuário pode clicar em **Novo**, preencher título, preço e URL da imagem, e
  
 ## 📚Usado como referencia Video 
 1. Criando Aplicação Fullstack do Zero - Parte 2: Desenvolvimento do Frontend com React e Typescript | dev 
+
 https://youtu.be/WHruc3_2z68?si=hSF7SZtMK1AozCnW
 
 ## 👨‍💻 Desenvolvedor
