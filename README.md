@@ -11,9 +11,7 @@ O usuário pode clicar em **Novo**, preencher título, preço e URL da imagem, e
 - ✅ **TypeScript** — Tipagem estática para JavaScript
 - ✅ **Axios** — Para fazer requisições HTTP (se usado futuramente)
 - ✅ **React Query** — Gerenciamento de estado e cache para dados assíncronos
-- ✅ **ESLint** — Linter para manter o código limpo e padronizado
-
-
+ 
 ---
 
 ## Rode o codigo
