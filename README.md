@@ -6,11 +6,11 @@ O usuário pode clicar em **Novo**, preencher title, price e URL da imagem, e cr
 ---
 
 ## 🚀 Tecnologias usadas
-- ✅ **React** — Biblioteca para construir interfaces
-- ✅ **Vite** — Ferramenta de build rápida para projetos front-end modernos
-- ✅ **TypeScript** — Tipagem estática para JavaScript
-- ✅ **Axios** — Para fazer requisições HTTP (se usado futuramente)
-- ✅ **React Query** — Gerenciamento de estado e cache para dados assíncronos
+- ✅ **React** —
+- ✅ **Vite** 
+- ✅ **TypeScript** 
+- ✅ **Axios** 
+- ✅ **React Query** 
  
 ---
 
@@ -60,7 +60,6 @@ O usuário pode clicar em **Novo**, preencher title, price e URL da imagem, e cr
 </div>
 
 
- 
 ## 📚Usado como referencia Video 
 1. Criando Aplicação Fullstack do Zero - Parte 2: Desenvolvimento do Frontend com React e Typescript | dev 
 
